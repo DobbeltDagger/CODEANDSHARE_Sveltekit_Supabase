@@ -11,3 +11,8 @@ __ Make sure it has the right fields for the project! ...
 [ ] - Make new design for Code&Share[ ] website  
 _ [ ] - Use a fantastic new font for this site (because there is an emphasis on text)  
 [ ] - Deploy site to vercel, add https and keep mail on simply!  
+
+
+EXTRAS:  
+_ Supabase install client: https://github.com/supabase/supabase-js  
+*
